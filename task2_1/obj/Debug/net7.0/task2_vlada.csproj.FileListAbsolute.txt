@@ -1,0 +1,15 @@
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\task2_vlada.csproj.AssemblyReference.cache
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\task2_vlada.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\task2_vlada.AssemblyInfoInputs.cache
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\task2_vlada.AssemblyInfo.cs
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\task2_vlada.csproj.CoreCompileInputs.cache
+D:\C#\IT\task2_vlada\bin\Debug\net7.0\task2_vlada.exe
+D:\C#\IT\task2_vlada\bin\Debug\net7.0\task2_vlada.deps.json
+D:\C#\IT\task2_vlada\bin\Debug\net7.0\task2_vlada.runtimeconfig.json
+D:\C#\IT\task2_vlada\bin\Debug\net7.0\task2_vlada.dll
+D:\C#\IT\task2_vlada\bin\Debug\net7.0\task2_vlada.pdb
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\task2_vlada.dll
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\refint\task2_vlada.dll
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\task2_vlada.pdb
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\task2_vlada.genruntimeconfig.cache
+D:\C#\IT\task2_vlada\obj\Debug\net7.0\ref\task2_vlada.dll
